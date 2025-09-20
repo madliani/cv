@@ -1,0 +1,8 @@
+base_url = "https://madliani.vercel.app/"
+build_search_index = true
+compile_sass = true
+
+[markdown]
+highlight_code = true
+
+[extra]
