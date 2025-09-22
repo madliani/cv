@@ -1,0 +1,5 @@
+base_url = "https://madliani.vercel.app/"
+compile_sass = true
+default_language = "en"
+description = "A programmer's personal website."
+title = "madliani"
